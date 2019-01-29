@@ -5,6 +5,7 @@ package miniredis
 import (
 	"strings"
 	"time"
+	"strconv"
 
 	"github.com/alicebob/miniredis/server"
 )
